@@ -22,7 +22,14 @@ function displayAdminMenu(){
     wp_enqueue_style('monCSSBootstrap');
     wp_enqueue_style('monCSS');
 
-    echo "
+    echo "<style>
+body{
+    margin-top: 20px;
+    background-color: darkgreen !important;
+	color: white !important;
+}
+
+</style>
         <center><h1>Merci d'avoir choisi NetHeberg pour votre site !</h1></center>
         <br>
         <br><center>
