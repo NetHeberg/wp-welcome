@@ -9,5 +9,6 @@ Aide de la documentation suivante : https://developer.wordpress.org/plugins/admi
 
 ## Changelog
 - v0.0.1 : version initiale
+- v0.0.2 : bug css résolu
 
 ### Par [ValentinGratz](https://github.com/ValentinGratz)
