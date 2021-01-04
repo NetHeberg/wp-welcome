@@ -4,7 +4,7 @@ Plugin Name: Welcome NetHeberg WP
 Plugin URI:
 Description: Merci d'avoir choisi NetHeberg pour héberger votre site WordPress
 Author: Valentin Gratz
-Version: 0.0.1
+Version: 0.0.2
 Author URI: http://www.valentin-gratz.xyz
 */
 
@@ -43,7 +43,7 @@ body{
             <ul><li>Site internet : <a href='http://www.netheberg.fr'>NetHeberg.fr</a></li>
                 <li>Serveur Discord : <a href='https://discord.gg/j5yjUsKVWC'>https://discord.gg/j5yjUsKVWC</a></li></ul>
         <br><br><br><br>
-        <div align=\"right\">Version 0.0.1</div>
+        <div align=\"right\">Version 0.0.2</div>
     ";
 }
 
