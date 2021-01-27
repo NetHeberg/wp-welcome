@@ -30,7 +30,7 @@ function displayAdminMenu(){
         <center><h1>Merci d'avoir choisi NetHeberg pour votre site !</h1></center><br>
         <br><center>
               <div class=\"akismet-masthead__logo-container\">
-				<img class=\"balimgbr\" src=\"?php echo esc_url( plugins_url( '/assets/img/logo_netheberg.png', __FILE__ ) ); ?>\" alt=\"logo NetHeberg\" />
+				<?php echo plugin_dir_url( __FILE__ ).'assets/img/logo_netheberg.png';?> //src image
 			  </div></center>
         <br>
         <br>
